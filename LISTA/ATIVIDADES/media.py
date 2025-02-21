@@ -7,5 +7,5 @@ for i in range(qnt):
 
 print("As notas digitadas foram:" ,notas)
 
-media = sum(notas) / qnt
-print("A média das notas é: ", media)
+media = sum(notas) / qnt # CÁLCULO MÉDIA #
+print("A média das notas é: ", media) 
