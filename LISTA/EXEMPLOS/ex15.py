@@ -1,0 +1,3 @@
+x = [40, 99, 10, 20, 13, 20, 14]
+n = x.count(20) # CONTA O NÚMERO DE ELEMENTOS NA LISTA COM UM CERTO VALOR #
+print(n)
